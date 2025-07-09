@@ -88,9 +88,4 @@
   <a href="https://www.linkedin.com/in/nandanarofficial/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nanduofficial111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nandanarnandu&icon=0&color=0" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
