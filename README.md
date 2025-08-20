@@ -10,6 +10,12 @@
   🎓 MITS, Kerala &nbsp;&nbsp; | &nbsp;&nbsp; 💡 Exploring LLMs, ML & Data-Driven Apps &nbsp;&nbsp; | &nbsp;&nbsp; 🚀 Focused on building impactful systems
 </div>
 
+<p align="center">
+  <a href="https://github.com/Nandana R/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanarnandu&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
+  </a>
+</p>
+
 <br>
 
 ### 🙋‍♀️ About Me
