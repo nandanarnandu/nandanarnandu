@@ -26,6 +26,7 @@
 - 💼 Intern @ VisionBoard | IEEE MITS WIE Secretary | Women Maker @ TinkerHub  
 - 💃 Dancer | 🧠 Curious Explorer | 🤝 Lifelong Learner
 
+
 <br>
 
 ---
